@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://realprize.xyz/sitemap.xml
